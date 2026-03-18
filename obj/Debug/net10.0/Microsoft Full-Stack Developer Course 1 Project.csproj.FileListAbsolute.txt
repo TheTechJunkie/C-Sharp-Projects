@@ -1,0 +1,14 @@
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/bin/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/bin/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.deps.json
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/bin/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.runtimeconfig.json
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/bin/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.dll
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/bin/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.pdb
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.AssemblyInfoInputs.cache
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.AssemblyInfo.cs
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.csproj.CoreCompileInputs.cache
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.dll
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/refint/Microsoft Full-Stack Developer Course 1 Project.dll
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.pdb
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/Microsoft Full-Stack Developer Course 1 Project.genruntimeconfig.cache
+/Users/jace/VS Code/Projects/Microsoft Full-Stack Dev Course 1 Project/Microsoft Full-Stack Developer Course 1 Project/obj/Debug/net10.0/ref/Microsoft Full-Stack Developer Course 1 Project.dll

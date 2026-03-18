@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Microsoft Full-Stack Developer Course 1 Project/1.0.0": {
+        "runtime": {
+          "Microsoft Full-Stack Developer Course 1 Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft Full-Stack Developer Course 1 Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
